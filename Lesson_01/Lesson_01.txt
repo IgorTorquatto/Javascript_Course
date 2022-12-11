@@ -1,0 +1,3 @@
+Instalar node.js
+Instalar extensão coderunner para facilitar
+Podemos exeutar arquivos js com o comando "node" + nome.js

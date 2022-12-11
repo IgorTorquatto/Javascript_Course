@@ -1,0 +1,5 @@
+Entendendo a diferença entre as aspas simples,duplas e crases.
+Usando crases podemos usar aspas simples ou duplas dentro sem ter um erro.
+O console.log pode receber vários parâmetros.
+
+Para fazer a interpolação de textos com números podemos usar tanto o + quanto a , 
