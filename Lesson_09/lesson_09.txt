@@ -1,0 +1,2 @@
+A variável var pode ser redeclarada , diferentemente da let que a mesama variável só pode ser declarada somente uma vez.
+Podemos criar variável sem especificar se é let,const ou var , porém ela será global.

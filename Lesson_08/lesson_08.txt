@@ -1,0 +1,1 @@
+Utilização do ${} para utilizar as variáveis.
