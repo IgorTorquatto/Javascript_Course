@@ -1,0 +1,6 @@
+Pre incremento x Pós incremento
+Not a number -> realizando operações em dados diferentes
+Null -> variável nula
+undefined => variável somente declarada.
+Conversão de dados:
+Para inteiro, parseFloat para float e Number() uma maneira mais genérica. 
