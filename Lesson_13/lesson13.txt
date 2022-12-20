@@ -1,0 +1,4 @@
+Strings
+-Strings são indexadas (Cada caractere recebe um índice que começa em 0 e vai até seu length.)
+-Métodos de Strings.
+-Utilização das templates Strings ( ${} )

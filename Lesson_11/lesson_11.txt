@@ -1,0 +1,5 @@
+Objeto Window 
+Alguns métodos do objeto Window (alert,confirm,prompt)
+Document
+Guardar valores dos métodos em variáveis.
+O método prompt retorna string, logo usar as funções de conversão para usar valores numéricos.
