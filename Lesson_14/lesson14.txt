@@ -1,0 +1,2 @@
+Os métodos numéricos não mudam o número em si, assim podemos trabalhar como valor original.
+-Geralmente os números de ponto flutuantes têm algum problema de imprecisão, isso deve ser corrigido com os métodos.
