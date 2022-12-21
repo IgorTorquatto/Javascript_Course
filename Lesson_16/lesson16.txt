@@ -1,0 +1,2 @@
+Arrays
+-O Length mostra o tamanho do array, mas como ele sempre inicia com indice 0, ele mostra o tamanho real e podemos usar esse método para sempre adicionar coisas ao final do array.
