@@ -1,0 +1,1 @@
+Funções, Funções anônimas ( dentro de variáveis), Arrow functions.
