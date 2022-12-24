@@ -1,0 +1,10 @@
+Dados primitivos imutáveis -> string,number,boolean,undefined
+ex:
+
+let nome = 'Luiz'
+nome[0] = 'R'
+console.log(nome) - > 'Luiz'
+
+
+null (bigint,symbol) - Valor
+Referência (mutável) - array, object, function
