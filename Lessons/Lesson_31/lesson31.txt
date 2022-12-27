@@ -1,0 +1,8 @@
+Var X let
+let tem escopo de bloco {... bloco} -> a cada bloco é como se existisse um let diferente
+var só tem escopo de função -> a cada var criado , independente do bloco qu estamos , vamos modificar a mesma var.
+
+-Difrença de hosting:
+usar uma let antes de declarar dá erro
+usar uma var antes de declará-la e dar um valor para ela vai gerar um undefined porque a engine do JS vai fazer algo similar a declará-la no topo do código.
+

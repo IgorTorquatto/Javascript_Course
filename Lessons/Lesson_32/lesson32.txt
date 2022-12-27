@@ -1,0 +1,5 @@
+Utilizando arrays para agregar valores a variáveis 
+atribuição via desestruturação
+rest operator
+spread operator
+array of arrays
