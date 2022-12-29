@@ -1,0 +1,3 @@
+-For in -> lê os indices ou chaves de um objeto
+Array -> Lê o número dos índices
+Objeto -> Lê as chaves e não o valor.

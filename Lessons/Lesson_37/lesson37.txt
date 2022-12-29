@@ -1,0 +1,12 @@
+-For of, for each.
+
+in -> retorna índice.
+Of -> retorna só o valor.
+
+Classic , in , of , each
+
+Obs: objetos não são iteráveis , logo não se pode usar *for of*
+
+For clássico - Geralmente com iteráveis.
+For in - Retorna índice ou chave ( string, array ou objetos)
+For of - Retorna o valor em si ( iteráveis, arrays ou strings)
