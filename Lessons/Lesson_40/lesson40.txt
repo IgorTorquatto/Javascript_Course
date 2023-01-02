@@ -1,0 +1,4 @@
+Continue X break
+
+Continue -> pula para a próxima iteração do laço
+Break -> sai imediatamento do laço de repetição, sem ir para a próxima iteração.

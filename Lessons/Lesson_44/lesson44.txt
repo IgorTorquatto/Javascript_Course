@@ -1,0 +1,2 @@
+Try , catch , throw
+Tratando e lançando erros.
